@@ -13,12 +13,12 @@
 </div>
 
 ---
-<div align="center">
-  I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+### :woman_technologist: About Me :
+I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   - :telescope: I’m working as a Front End Developer for building web or mobile applications.
   
   - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-auliarch-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aulia-rachman-profile/)
-</div>
 
 ---
 
@@ -34,11 +34,10 @@
 
 ---
 
-<div align="center">
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=auliarch&theme=dark&background=000000)](https://git.io/streak-stats)
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=auliarch&theme=dark&background=000000)](https://git.io/streak-stats)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=auliarch&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=auliarch&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **auliarch/auliarch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
